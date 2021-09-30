@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="C:\Users\user\Desktop\GameDev\GSG\ezgif-2-36161fcca3ce." width="300" />
+  <img src="https://github.com/UserYoungJoon/UserYoungJoon/blob/main/ezgif-2-36161fcca3ce.gif" width="300" />
   <br />
   <em>Young joon, <b>Hello </b></em> 👩🏻‍💻
   <br />
