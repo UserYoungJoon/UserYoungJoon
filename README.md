@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://mblogthumb-phinf.pstatic.net/MjAyMDEwMTNfMTYg/MDAxNjAyNTkxMjg1MjI4.SFALm2Fe_bmAd6KAt4mrlwIeO-N46DDMK_fdWzPHSCIg.tIDBesqtUtcKyk0b133XsUDOv6XiW3Vuyu7M3EUBE7Qg.GIF.nayoung_a/IMG_3561.GIF?type=w800" width="300" />
+  <img src="C:\Users\user\Desktop\GameDev\GSG\ezgif-2-36161fcca3ce." width="300" />
   <br />
   <em>Young joon, <b>Hello </b></em> 👩🏻‍💻
   <br />
