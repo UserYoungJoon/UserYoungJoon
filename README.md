@@ -12,7 +12,8 @@
   <br />
   
   <h3 align="center">Introduce</h3>
-  <p align="center"> NONE   </p>
+  <p align="center"> - Now studying for implement 2.5D playform Unity game / Studied game running system by C++, ECS pattern, SDL
+  </p>
   
   <h3 align="center">Now im doing</h3>
   <p align="center">
