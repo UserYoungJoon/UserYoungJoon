@@ -15,9 +15,9 @@
   <p align="center"> 
     <h4>Now</h4> 
       Studying for implementing 2.5D platform Unity game 
-    <h4>interested</h4> 
-      code optimization<br/>
-      I want to make good software architecture, and code for my team. </br>
+    <h4>Interested</h4> 
+      >Code optimization<br/>
+        :I want to make good software architecture, and code for my team. </br>
     <br /> 
     <h4 >Studied</h4> 
     game running system by C++, ECS pattern, SDL
