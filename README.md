@@ -17,7 +17,9 @@
       Studying for implementing 2.5D platform Unity game 
     <h4>Interested</h4> 
       >Code optimization<br/>
-        :I want to make good software architecture, and code for my team. </br>
+        : I want to make good software architecture, and code for my team. </br>
+      >Game System development<br/>
+        : It's really insane to looking my game world what i madeed</br>
     <br /> 
     <h4 >Studied</h4> 
     game running system by C++, ECS pattern, SDL
