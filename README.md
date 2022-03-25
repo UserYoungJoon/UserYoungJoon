@@ -22,7 +22,7 @@
         : It's really insane watching my game world what i maded</br>
     <br /> 
     <h4 >Studied</h4> 
-    game running system by C++, ECS pattern, SDL
+    game running system by C++, ECS pattern, SDL, Unity, C#
   </p>
   
   <h3 align="center">Can do</h3>
