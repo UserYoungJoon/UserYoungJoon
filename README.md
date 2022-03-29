@@ -19,7 +19,7 @@
       >Code optimization<br/>
         : I want to make good software architecture, and code for my team. </br>
       >Game System development<br/>
-        : It's really insane watching my game world what i maded</br>
+        : It's really insane watching my game world that i maded</br>
     <br /> 
     <h4 >Studied</h4> 
     game running system by C++, ECS pattern, SDL, Unity, C#
