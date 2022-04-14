@@ -14,7 +14,7 @@
   <h3 align="center"> Introduce </h3>
   <p align="center"> 
     <h4>Now</h4> 
-      Studying for implementing 2.5D platform Unity game 
+      Studying for implementing 2D platform Unity game 
     <h4>Interested</h4> 
       >Code optimization<br/>
         : I want to make good software architecture, and code for my team. </br>
