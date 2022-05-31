@@ -10,10 +10,10 @@
   .<br />
   .<br />
   <br />
-  
-  <h3 align="center"> Introduce </h3>
+  <h3 align="center"> If you want to optimze your C, C++, C#, Java Project code, contact me : ljjsy12@naver.com </h3>  
   <br>
-  <h3 align="center"> If you want to optimze your C, C++, C#, Java Project code, contact me : ljjsy12@naver.com </h3>
+  <h3 align="center"> Introduce </h3>
+  
   <p align="center"> 
     <h4>Now</h4> 
       Studying for implementing 2D platform Unity game 
