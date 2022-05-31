@@ -13,10 +13,8 @@
   <h2 align="center"> If you want to optimze your C, C++, C#, Java Project code, contact me : ljjsy12@naver.com </h2>  
   <br>
   <h2 align="center"> I can optimize code cache, multithread, so on. </h2>  
-  <br>
-  .<br />
-  .<br />
-  .<br />
+  <br><br><br><br>
+  
   <h3 align="center"> Introduce </h3>
   
   <p align="center"> 
